@@ -1,7 +1,7 @@
 # 💻 Dashboard Website - MuradDev
 
 This project is a modern and responsive **admin dashboard** website made using HTML, CSS and JavaScript. 
-The website is designed in the appearance of a real online course platform
+The website is designed in the appearance of a real online course platform,
 and is equipped with course sections in the frontend, backend and cybersecurity areas, a user panel and a dark mode.
 
 ## 🔍 Main Features
@@ -18,7 +18,7 @@ and is equipped with course sections in the frontend, backend and cybersecurity 
 - CSS3 (Box Shadow, Grid, Hover effects)
 - JavaScript (DOM manipulation, localStorage)
 - Remixicon and FontAwesome icon libraries
-
+  
 ## 📸 Screenshots
 
 ### 🌐 Main Dashboard View
